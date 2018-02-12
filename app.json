@@ -1,7 +1,9 @@
 {
   "pages": [
+    "pages/test/test",
     "pages/index/index",
     "pages/map/map"
+    
   ],
   "window": {
     "backgroundTextStyle": "light",
