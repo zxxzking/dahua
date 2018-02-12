@@ -3,7 +3,7 @@
   <view id="totalstyle">
       <view style="float:left;height:60px">
         <view class="title">时光花田祥云店</view>
-        <view class="introduce" style="margin-top:10px">自然系生活美学品牌</view>
+        <view class="introduce" style="margin-top:10px">自然系花店</view>
       </view>
       <view style="float:right"><image src="/images/touxiang.png" class="touxiang" /></view>
 

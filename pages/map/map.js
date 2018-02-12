@@ -12,16 +12,8 @@ Page({
 
   onReady:function(e){
     this.mapCtx = wx.createMapContext("map", this)
-    var mapCtx = this.mapCtx
+    this.mapCtx.moveToLocation()
 
-  },
-  regionchange(e) {
-    console.log(e.type)
-  },
-  markertap(e) {
-    console.log(e.markerId)
-  },
-  controltap(e) {
-    console.log(e.controlId)
   }
+  
 })
