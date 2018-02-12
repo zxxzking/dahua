@@ -1,0 +1,22 @@
+<!--index.wxml-->
+<view>
+  <view id="totalstyle">
+      <view style="float:left;height:60px">
+        <view class="title">时光花田祥云店</view>
+        <view class="introduce" style="margin-top:10px">自然系生活美学品牌</view>
+      </view>
+      <view style="float:right"><image src="/images/touxiang.png" class="touxiang" /></view>
+
+      <view class="line" style='margin-top:8%;'>-------</view> 
+      <view class="companyinfo" bindtap="showMap" hover-class="button-hover">
+        <image src="/images/coordinates.png" class="iconstyle" />北京市顺义区安泰大街中粮祥...
+        <image src="/images/enter.png" class="enter"/>
+      </view>
+
+      <view class="companyinfo"><image src="/images/time.png" class="iconstyle" />10：30-21:00</view>
+      <view class="companyinfo" bindtap="call" hover-class="button-hover"><image src="/images/phone.png" class="iconstyle"/>18513636303
+      <image src="/images/enter.png" class="enter" /></view>
+      <view class="companyinfo"><image src="/images/picture.png" class="iconstyle" />门店照片</view>
+      
+  </view>
+</view>

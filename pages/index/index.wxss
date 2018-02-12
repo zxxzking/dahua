@@ -1,0 +1,52 @@
+
+
+#totalstyle{
+ padding: 23px;
+
+}
+
+.title{
+  font-size: 23px;
+  width: 200px;
+}
+
+.introduce{
+  font-size: 13px;
+  color: #aaa;
+  width: 200px;
+}
+
+.touxiang{
+  width:60px;
+  height:60px;
+}
+
+.line{
+ color: #ffffff;
+}
+
+.iconstyle{
+  width:16px;
+  height:16px;
+  padding-right: 10px; 
+  display: inline-block;
+  vertical-align: -2px;
+}
+
+.companyinfo{
+  margin-top: 25px;
+  height: 30px;
+  line-height: 20px;
+  color: #aaa;
+  font-size: 16px;
+
+}
+
+
+.enter{
+  width:16px;
+  height:16px;
+  display: inline-block;
+  vertical-align: -2px;
+  float:right
+}
