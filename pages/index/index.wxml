@@ -1,6 +1,6 @@
 <!--index.wxml-->
 <view>
-  <view id="totalstyle">
+  <view class="totalstyle">
       <view style="float:left;height:60px">
         <view class="title">时光花田祥云店</view>
         <view class="introduce" style="margin-top:10px">自然系花店</view>
@@ -18,7 +18,26 @@
       <image src="/images/enter.png" class="enter" /></view>
       <view class="companyinfo"><image src="/images/picture.png" class="iconstyle" />门店照片</view>
   </view>
-  
+
+  <view class='bottomstyle'>   
+      
+
+  </view>
+      <view class='l1'>
+        <image src='{{pictures[0]}}' class='picintroduce' bindtap='imageView' id='0'></image>
+        <image src='{{pictures[1]}}' class='picintroduce' bindtap='imageView' id='1'></image>
+        <image src='{{pictures[2]}}' class='picintroduce' bindtap='imageView' id='2'></image>
+      </view>
+      <view class='l1'>
+        <image src='{{pictures[3]}}' class='picintroduce' bindtap='imageView' id='3'></image>
+        <image src='{{pictures[4]}}' class='picintroduce' bindtap='imageView' id='4'></image>
+        <image src='{{pictures[5]}}' class='picintroduce' bindtap='imageView' id='5'></image>
+      </view>
+      <view class='l1'>
+        <image src='{{pictures[6]}}' class='picintroduce' bindtap='imageView' id='6'></image>
+        <image src='{{pictures[7]}}' class='picintroduce' bindtap='imageView' id='7'></image>
+        <image src='{{pictures[8]}}' class='picintroduce' bindtap='imageView' id='8'></image>
+      </view>
 
 
 
