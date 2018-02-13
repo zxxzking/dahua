@@ -6,15 +6,15 @@ Page({
   data: {
     companyName:'时光花田祥云店',
     pictures:[
-      'https://mmbiz.qpic.cn/mmbiz_jpg/XyyLpCc38w3BGRwGANfaM7CRK9ZnLq1WOiafSxN1cre25gtkkOq2gs2BrgJ0n1qX7RbiaTL14NZicErENHOtyA2Pw/0?wx_fmt=jpeg',
-      'https://mmbiz.qpic.cn/mmbiz_jpg/XyyLpCc38w3BGRwGANfaM7CRK9ZnLq1W9nDc8okvxIEU4hegLzdELmz5K2Qls9jb0XibgsibW9FxDEibcbmicHfwMQ/0?wx_fmt=jpeg',
-      'https://mmbiz.qpic.cn/mmbiz_jpg/XyyLpCc38w3BGRwGANfaM7CRK9ZnLq1Wo9U79sCKzltCkeaLbhiauC5vRVXRKoeRz4PUMMvt8py9bDWFngeb8Xg/0?wx_fmt=jpeg',
-      'https://mmbiz.qpic.cn/mmbiz_jpg/XyyLpCc38w3BGRwGANfaM7CRK9ZnLq1WzX36ffQGsoUMBHDbicF6PgJZNLjPlrJU7R2IaDWAwgfTb0T4Oc7ahVw/0?wx_fmt=jpeg',
-      'https://mmbiz.qpic.cn/mmbiz_jpg/XyyLpCc38w3BGRwGANfaM7CRK9ZnLq1WvBqgB5aH8yfgnD1p5g9qTvTm45hic9Cv1LdT0pjicBQSqLVC7wcTdoTw/0?wx_fmt=jpeg',
-      'https://mmbiz.qpic.cn/mmbiz_jpg/XyyLpCc38w3BGRwGANfaM7CRK9ZnLq1WOueRiaFJuKZMeA95oAf9ZejR9iclCdSoYYZ8AJm0k6Gxh2NfliaHc2nzw/0?wx_fmt=jpeg',
-      'https://mmbiz.qpic.cn/mmbiz_jpg/XyyLpCc38w3BGRwGANfaM7CRK9ZnLq1WqF86ESZSFI0UYPRQwRNJMPgbwocnjriaBz0RXwx14BEHicOERHYVk8vg/0?wx_fmt=jpeg',
-      'https://mmbiz.qpic.cn/mmbiz_jpg/XyyLpCc38w3BGRwGANfaM7CRK9ZnLq1WibG6bDnZKSVftQ2O1btRh9WRY7BAokjTb5DZyfrQbCptrE3oGubf1Mg/0?wx_fmt=jpeg',
-      'https://mmbiz.qpic.cn/mmbiz_jpg/XyyLpCc38w3BGRwGANfaM7CRK9ZnLq1Wy2YXu9ouJb29HPJQPOAgZuWMz47HlvS9HZyDCJEW2icmicq8d67HJv1A/0?wx_fmt=jpeg'
+      'https://mmbiz.qpic.cn/mmbiz_jpg/XyyLpCc38w3BGRwGANfaM7CRK9ZnLq1WKV6eGYD7KVEbkicoL3aQz5OcuQCWgicFnLK3atGib9uWQn80TgiacDavYA/0?wx_fmt=jpeg',
+      'https://mmbiz.qpic.cn/mmbiz_jpg/XyyLpCc38w3BGRwGANfaM7CRK9ZnLq1WTrp8fl2icY81ufJRfX0uLJvM2cZTzyQ84mNKiaNrd1PzsagK2scRglJQ/0?wx_fmt=jpeg',
+      'https://mmbiz.qpic.cn/mmbiz_jpg/XyyLpCc38w3BGRwGANfaM7CRK9ZnLq1WZHicKXejvvoSbbTmtm7qQaDAWiaRaNv8A3Vo4rDUIr0ryqASHbSIkl6Q/0?wx_fmt=jpeg',
+      'https://mmbiz.qpic.cn/mmbiz_jpg/XyyLpCc38w3BGRwGANfaM7CRK9ZnLq1WWLhKBDUecibUjPgianORtFtiaWK7byVHgd4ysXp0SyFQauhZKUExrTDKA/0?wx_fmt=jpeg',
+      'https://mmbiz.qpic.cn/mmbiz_jpg/XyyLpCc38w3BGRwGANfaM7CRK9ZnLq1WDNnyr0XrrPI1rKEDXVLqJFZ7w3kOvu1Kxic2LfgBNUO9r5V78lRz8Ug/0?wx_fmt=jpeg',
+      'https://mmbiz.qpic.cn/mmbiz_jpg/XyyLpCc38w3BGRwGANfaM7CRK9ZnLq1Wpqsib0CqOREuibXuHX9YFJmT0TMA0efc2WuZoB9Kmc3FNPgcxJgJcs5A/0?wx_fmt=jpeg',
+      'https://mmbiz.qpic.cn/mmbiz_jpg/XyyLpCc38w3BGRwGANfaM7CRK9ZnLq1WSb6l0qeNC4XAvh7SJib7Y0w1yNADnCCrYFpMUXHYazicbDmVP6DB4WRg/0?wx_fmt=jpeg',
+      'https://mmbiz.qpic.cn/mmbiz_jpg/XyyLpCc38w3BGRwGANfaM7CRK9ZnLq1WBquF5krwggnic7x8EibTR6Kb7L6vicjhoLlVUpxN7k1lT11k7wmIRKKuA/0?wx_fmt=jpeg',
+      'https://mmbiz.qpic.cn/mmbiz_jpg/XyyLpCc38w3BGRwGANfaM7CRK9ZnLq1WSRqN3peygZzLoX1bmABuHPtykicjRPfUreLRPiazX43b4NRUst48DdTQ/0?wx_fmt=jpeg'
     ],
     indicatorDots: false,
     autoplay: true,

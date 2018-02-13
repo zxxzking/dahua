@@ -19,10 +19,7 @@
       <view class="companyinfo"><image src="/images/picture.png" class="iconstyle" />门店照片</view>
   </view>
 
-  <view class='bottomstyle'>   
-      
-
-  </view>
+  
       <view class='l1'>
         <image src='{{pictures[0]}}' class='picintroduce' bindtap='imageView' id='0'></image>
         <image src='{{pictures[1]}}' class='picintroduce' bindtap='imageView' id='1'></image>
@@ -38,7 +35,5 @@
         <image src='{{pictures[7]}}' class='picintroduce' bindtap='imageView' id='7'></image>
         <image src='{{pictures[8]}}' class='picintroduce' bindtap='imageView' id='8'></image>
       </view>
-
-
-
+      
 </view>

@@ -1,7 +1,7 @@
 
 
 .totalstyle{
- padding: 23px;
+ padding: 7%;
 
 }
 
@@ -52,17 +52,17 @@
 }
 
 .picintroduce{
-  width: 80px;
-  height: 80px;
-  padding: 3px;
+  width: 85px;
+  height: 85px;
+  padding: 5px;
+  flex: 1;
 }
 
-.bottomstyle{
-  padding-left: 23px;
-  padding-right: 23px;
-}
 
 .l1{
-  padding-left:23px;
-
+  margin-right:7%;
+  margin-left:7%;
+  display:flex;
+  flex-direction:row;
+  
 }
